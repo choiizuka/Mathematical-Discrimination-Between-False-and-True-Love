@@ -103,6 +103,9 @@ System State	System Error / Stagnation	Hyper-Accelerated Execution
 Throughput	0.001y/day (Human Norm)	500y∼1000y+/day
 Anxiety Bug	High Frequency (95% CPU load)	Eliminated (Noise Floor ≈0)
 Quit Function	Active (Frequent Aborts)	Deleted (Infinite Loop)
+
+Google Spread Sheet:(https://docs.google.com/spreadsheets/d/1TztJCaJpO3ITW7haeP27h_n8FEVaUYqLXoSocOuqY-g/edit?usp=sharing)
+
 3. Logics of Acceleration
 
 The Cost of Attachment (L 
@@ -166,6 +169,9 @@ Google Docs:(https://docs.google.com/document/d/1sqTtv7mQK9453mMPMTp-KeNRGbTTUBC
 スループット	0.001年 / 日（凡人並み）	500∼1000年以上 / 日
 不安バグ率	高頻度（リソースの95%を浪費）	根絶（ノイズフロア ≈0）
 停止関数	有効（すぐに諦める）	物理的削除（無限継続）
+
+Google Spread Sheet:(https://docs.google.com/spreadsheets/d/1TztJCaJpO3ITW7haeP27h_n8FEVaUYqLXoSocOuqY-g/edit?usp=sharing)
+
 3. 加速の論理的背景
 
 執着による損失 (L 
